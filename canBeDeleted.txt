@@ -1,6 +1,7 @@
 init
-stashed 0.0
-stashed 0.1
-stashed 0.2
 
 ---version 1.1---
+bugFixed
+- three lines removed
+- from this files
+- Buggy code removeds
