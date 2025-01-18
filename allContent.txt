@@ -9,7 +9,14 @@ feature 2 code 1.2
 feature 2 code 1.3
 feature 2 code 1.4
 feature modified
+
+# both changes accepted in PR req.
+'''
+cherry-pick commit 1.1
+cherry-pick commit 2.0
+cherry-pick final
 feature modified
 
 cherry-pick commit 1.1
 cherry-pick commit 2.0
+'''
