@@ -8,3 +8,4 @@ stash 1.1
 stashed 0
 stash 2.0
 stash 2.1
+stashed changes from feature-1 file.

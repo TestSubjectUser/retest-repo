@@ -2,3 +2,4 @@ init
 stash 1.0
 stash 1.1
 stash 1.2
+stashed changes from feature-1 file.
