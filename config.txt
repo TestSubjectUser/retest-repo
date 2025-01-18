@@ -1,1 +1,4 @@
 init
+stash 1.0
+stash 1.1
+stash 1.2

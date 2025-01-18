@@ -2,3 +2,9 @@ init
 for commit 1.0
 for commit 1.1
 for commit 1.1  
+stashed 0
+stash 1.0
+stash 1.1
+stashed 0
+stash 2.0
+stash 2.1
